@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "title": "Rabi vs Kharif vs Zaid",
+    "items": [
+      {
+        "name": "Rabi",
+        "meaning": [
+          "Winter crops",
+          "Sown from October to December",
+          "Harvested in spring"
+        ]
+      },
+      {
+        "name": "Kharif",
+        "meaning": [
+          "Monsoon crops",
+          "Sown from June to July",
+          "Harvested in autumn"
+        ]
+      },
+      {
+        "name": "Zaid",
+        "meaning": [
+          "Summer crops",
+          "Short growing season",
+          "Grown between Rabi and Kharif"
+        ]
+      }
+    ],
+    "tags": ["agriculture", "india"]
+  },
+  {
+    "id": 2,
+    "title": "iPad vs iPod",
+    "items": [
+      {
+        "name": "iPad",
+        "meaning": [
+          "Tablet device",
+          "Large touch screen",
+          "Used for browsing, media, and productivity"
+        ]
+      },
+      {
+        "name": "iPod",
+        "meaning": [
+          "Portable music player",
+          "Small screen or no screen",
+          "Primarily for audio playback"
+        ]
+      }
+    ],
+    "tags": ["technology", "apple"]
+  },
+  {
+    "id": 3,
+    "title": "HTTP vs HTTPS",
+    "items": [
+      {
+        "name": "HTTP",
+        "meaning": [
+          "Unencrypted protocol",
+          "Data sent in plain text",
+          "Less secure"
+        ]
+      },
+      {
+        "name": "HTTPS",
+        "meaning": [
+          "Encrypted using SSL/TLS",
+          "Protects data in transit",
+          "More secure and trusted"
+        ]
+      }
+    ],
+    "tags": ["web", "security"]
+  },
+  {
+    "id": 4,
+    "title": "RAM vs ROM",
+    "items": [
+      {
+        "name": "RAM",
+        "meaning": [
+          "Volatile memory",
+          "Stores temporary data",
+          "Cleared when power is off"
+        ]
+      },
+      {
+        "name": "ROM",
+        "meaning": [
+          "Non-volatile memory",
+          "Stores permanent instructions",
+          "Retains data without power"
+        ]
+      }
+    ],
+    "tags": ["computer", "hardware"]
+  },
+  {
+    "id": 5,
+    "title": "Array vs Object (JavaScript)",
+    "items": [
+      {
+        "name": "Array",
+        "meaning": [
+          "Ordered collection",
+          "Accessed by index",
+          "Best for lists of data"
+        ]
+      },
+      {
+        "name": "Object",
+        "meaning": [
+          "Key-value pairs",
+          "Accessed by property name",
+          "Best for structured data"
+        ]
+      }
+    ],
+    "tags": ["javascript", "programming"]
+  },
+  {
+    "id": 6,
+    "title": "Frontend vs Backend",
+    "items": [
+      {
+        "name": "Frontend",
+        "meaning": [
+          "User-facing part of application",
+          "Runs in the browser",
+          "Uses HTML, CSS, JavaScript"
+        ]
+      },
+      {
+        "name": "Backend",
+        "meaning": [
+          "Server-side logic",
+          "Handles data and authentication",
+          "Uses databases and APIs"
+        ]
+      }
+    ],
+    "tags": ["web", "development"]
+  },
+  {
+    "id": 7,
+    "title": "SQL vs NoSQL",
+    "items": [
+      {
+        "name": "SQL",
+        "meaning": [
+          "Structured relational databases",
+          "Fixed schema",
+          "Uses tables and joins"
+        ]
+      },
+      {
+        "name": "NoSQL",
+        "meaning": [
+          "Non-relational databases",
+          "Flexible schema",
+          "Uses documents, key-value, or graphs"
+        ]
+      }
+    ],
+    "tags": ["database", "technology"]
+  },
+  {
+    "id": 8,
+    "title": "Compiler vs Interpreter",
+    "items": [
+      {
+        "name": "Compiler",
+        "meaning": [
+          "Translates entire code at once",
+          "Faster execution",
+          "Errors shown after compilation"
+        ]
+      },
+      {
+        "name": "Interpreter",
+        "meaning": [
+          "Translates code line by line",
+          "Slower execution",
+          "Errors shown immediately"
+        ]
+      }
+    ],
+    "tags": ["programming", "basics"]
+  },
+  {
+    "id": 9,
+    "title": "Hard Copy vs Soft Copy",
+    "items": [
+      {
+        "name": "Hard Copy",
+        "meaning": [
+          "Physical printed document",
+          "Requires paper",
+          "Not easily editable"
+        ]
+      },
+      {
+        "name": "Soft Copy",
+        "meaning": [
+          "Digital document",
+          "Stored electronically",
+          "Easily editable and shareable"
+        ]
+      }
+    ],
+    "tags": ["education", "basics"]
+  },
+  {
+    "id": 10,
+    "title": "Machine Learning vs Deep Learning",
+    "items": [
+      {
+        "name": "Machine Learning",
+        "meaning": [
+          "Subset of artificial intelligence",
+          "Uses algorithms to learn from data",
+          "Requires feature engineering"
+        ]
+      },
+      {
+        "name": "Deep Learning",
+        "meaning": [
+          "Subset of machine learning",
+          "Uses neural networks",
+          "Automatically extracts features"
+        ]
+      }
+    ],
+    "tags": ["ai", "technology"]
+  }
+]

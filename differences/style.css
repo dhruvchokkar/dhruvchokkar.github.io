@@ -1,0 +1,83 @@
+* {
+     box-sizing: border-box;
+}
+
+body {
+     background-color: #E8E1EF;
+     margin: 0;
+     font-family: cursive;
+     line-height: 1.6;
+}
+
+/* ---------- Layout wrapper ---------- */
+body>*:not(.nav-home) {
+     max-width: 900px;
+     margin: 0 auto;
+     padding: 16px;
+}
+
+/* ---------- Navigation ---------- */
+.nav-home {
+     display: flex;
+     justify-content: flex-end;
+     padding: 20px 32px;
+}
+
+.nav-home a {
+     color: white;
+     background-color: #663131;
+     text-decoration: none;
+     padding: 10px 16px;
+     border-radius: 10px;
+     font-weight: bold;
+}
+
+/* ---------- Title ---------- */
+#title {
+     text-align: center;
+     margin: 24px 0;
+}
+
+/* ---------- Table ---------- */
+#diffTable {
+     width: 100%;
+     border-collapse: collapse;
+     background-color: #ffffff;
+     border-radius: 12px;
+     box-shadow: 4px 4px 7px rgba(128, 128, 128, 0.445);
+     overflow: hidden;
+}
+
+#diffTable th {
+     background-color: #663131;
+     color: white;
+     padding: 16px;
+     text-align: center;
+}
+
+#diffTable td {
+     padding: 16px;
+     vertical-align: top;
+     border-top: 1px solid #ddd;
+}
+
+#diffTable td p {
+     margin: 6px 0;
+}
+
+/* ---------- More button ---------- */
+#moreBtn {
+     display: block;
+     margin: 32px auto;
+     padding: 12px 28px;
+     font-size: 16px;
+     border: none;
+     border-radius: 20px;
+     background-color: #663131;
+     color: white;
+     cursor: pointer;
+}
+
+#moreBtn:hover {
+     opacity: 0.9;
+}
